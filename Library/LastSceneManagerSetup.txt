@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/MyPC/Desktop/unity/unity2D/Spider Cave/Assets/Scenes/GamePlay.unity
+  isLoaded: 1
+  isActive: 1
